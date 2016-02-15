@@ -7,6 +7,6 @@ public class HelloWorld1 {
 	System.debug( 'Me' );
 	}
 	public void sayHi() {
-	System.debug( 'Hii' );
+	System.debug( 'Hello' );
 	}
 }
