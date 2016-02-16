@@ -10,7 +10,7 @@ public with sharing class Address_MapViewExtenstion {
     public void SaveAddress(){
 
         update AccObj;
-       
+       system.debug('Address Saved');
        
     }
 
